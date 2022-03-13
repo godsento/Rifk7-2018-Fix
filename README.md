@@ -39,3 +39,4 @@ F10 : Hide name
 setup help:
 1. Make sure you are using an injector that utilizes Load Library, or it will fail to inject.
 2. Make sure you have visual studio redistributables
+3. Make sure you have VISUAL STUDIO downloaded with the C++ desktop packages (This is the fix that works for most!) 
